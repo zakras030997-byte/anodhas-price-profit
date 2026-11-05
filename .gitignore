@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+Verification/
+releases/
+.publication/
+*.dmg
+*.app/
+*.p12
+*.p8
+*.mobileprovision
+.env
+.env.*
